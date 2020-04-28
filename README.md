@@ -14,11 +14,11 @@ https://www.kaggle.com/
 
 <https://kaggle-kr.tistory.com/32>
 
-## 프로젝트 성공 기준
+## 프로젝트 성취 기준
 
 종료된 대회는 Leaderboard Top 5% 이내에 해당하는 점수에 도달하는 것이 목표
 
-진행중인 대회는 Inclass, playground 등급을 찾아 Leaderboard Top 10% 이내에 도달하는 것이 목표
+진행중인 대회는 Leaderboard Top 10% 이내에 도달하는 것이 목표
 
 ## 프로젝트 진행률
 
