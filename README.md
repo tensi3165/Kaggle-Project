@@ -22,6 +22,24 @@ https://www.kaggle.com/
 
 ## 프로젝트 진행률
 
+### 1.Predict Future Sales - Top 5%
+>진행중인 대회
+
+Coursera Data Science 최종 과제, 미래 물품 판매량 예측하기 대회
+
+RMSE Score = 0.89281
+
+Public Leaderboard 345 /  6510 - Top 5%
+
+### 2.Housing Prices Competition - Top 10%
+>진행중인 대회
+
+Kaggle Machine Learning course 최종 과제, 집값 예측하기 대회
+
+RMSE Score = 15153.82022
+
+Public Leaderboard 2919 / 29695 - Top 10%
+
 ### 1. Bike sharing demand - Top 3%
 > 종료된 대회
 
@@ -57,21 +75,3 @@ Private Leaderboard 532 / 1254 - Top 42%
 Logless Score = 5.02824
 
 Private Leaderboard 1776 / 2331 - Top 76%
-
-### 1.Predict Future Sales - Top 5%
->진행중인 대회
-
-Coursera Data Science 최종 과제, 미래 물품 판매량 예측하기 대회
-
-RMSE Score = 0.89281
-
-Public Leaderboard 345 /  6510 - Top 5%
-
-### 2.Housing Prices Competition - Top 10%
->진행중인 대회
-
-Kaggle Machine Learning course 최종 과제, 집값 예측하기 대회
-
-RMSE Score = 15153.82022
-
-Public Leaderboard 2919 / 29695 - Top 10%
