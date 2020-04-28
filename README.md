@@ -23,7 +23,7 @@ https://www.kaggle.com/
 ## 프로젝트 진행률
 
 ### 1.Predict Future Sales - Top 5%
->진행중인 대회
+>진행중인 대회 - 완료
 
 Coursera Data Science 최종 과제, 미래 물품 판매량 예측하기 대회
 
@@ -32,7 +32,7 @@ RMSE Score = 0.89281
 Public Leaderboard 345 /  6510 - Top 5%
 
 ### 2.Housing Prices Competition - Top 10%
->진행중인 대회
+>진행중인 대회 - 프로젝트 
 
 Kaggle Machine Learning course 최종 과제, 집값 예측하기 대회
 
@@ -41,7 +41,7 @@ RMSE Score = 15153.82022
 Public Leaderboard 2919 / 29695 - Top 10%
 
 ### 1. Bike sharing demand - Top 3%
-> 종료된 대회
+> 종료된 대회 - 완료
 
 자전거 수요량 예측하기 대회
 
@@ -50,7 +50,7 @@ RMSLE Score = 0.37710
 Private Leaderboard 99 / 3242 - Top 3%
 
 ### 2. Walmart Recruiting - Store Sales Forecasting - Top 5%
-> 종료된 대회
+> 종료된 대회 - 완료
 
 월마트 주간 판매량 예측하기 대회
 
@@ -59,7 +59,7 @@ WWAE Score = 2725.45308
 Private Leaderboard 35 / 690 - Top 5%
 
 ### 3. New york city Taxi trip duration
-> 종료된 대회
+> 종료된 대회 - 프로젝트 진행중
 
 뉴욕 택시 탑승시간 예측하기 대회
 
@@ -68,10 +68,19 @@ RMSLE Score = 0.40981
 Private Leaderboard 532 / 1254 - Top 42%
 
 ### 4. San Francisco Crime Classification
-> 종료된 대회
+> 종료된 대회 - 프로젝트 진행중
 
 샌프란시스코 범죄 종류 예측하기 대회
 
 Logless Score = 5.02824
 
 Private Leaderboard 1776 / 2331 - Top 76%
+
+### 5. Home Credit Default Risk
+> 종료된 대회 - 프로젝트 진행중
+
+홈 크레딧사의 대출 위험도 평가 대회
+
+ROC Score = 0.70020
+
+Private Leaderboard 6175 / 7174 - Top 86%
