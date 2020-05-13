@@ -26,12 +26,16 @@
 
 ## 프로젝트 진행률
 
+처음 베이스라인 점수와 최종 점수를 기재함
+
 ### 1.Housing Prices Competition - Top 1%
 >진행중인 대회 - top 달성
 
 Kaggle Machine Learning course 최종 과제, 집값 예측하기 대회
 
-RMSE Score = 12418.75137
+2020/04/23 RMSE Score = 16167.89300
+
+2020/05/04 RMSE Score = 12418.75137
 
 Public Leaderboard 283 / 29695 - Top 1%
 
@@ -40,7 +44,9 @@ Public Leaderboard 283 / 29695 - Top 1%
 
 Coursera Data Science 최종 과제, 미래 물품 판매량 예측하기 대회
 
-RMSE Score = 0.89281
+2020/04/25 RMSE Score = 0.92653
+
+2020/04/28 RMSE Score = 0.89281
 
 Public Leaderboard 345 /  6510 - Top 5%
 
@@ -49,7 +55,9 @@ Public Leaderboard 345 /  6510 - Top 5%
 
 자전거 수요량 예측하기 대회
 
-RMSLE Score = 0.37710
+2020/03/16 RMSLE Score = 0.46816
+
+2020/04/05 RMSLE Score = 0.37710
 
 Private Leaderboard 99 / 3242 - Top 3%
 
@@ -58,7 +66,9 @@ Private Leaderboard 99 / 3242 - Top 3%
 
 월마트 주간 판매량 예측하기 대회
 
-WWAE Score = 2725.45308
+2020/03/18 WWAE Score =2741.32964
+
+2020/04/06 WWAE Score = 2639.13656
 
 Private Leaderboard 35 / 690 - Top 5%
 
@@ -71,14 +81,16 @@ RMSLE Score = 0.40981
 
 Private Leaderboard 532 / 1254 - Top 42%
 
-### 4. San Francisco Crime Classification
-> 종료된 대회 - 프로젝트 진행중
+### 4. San Francisco Crime Classification - Top 6%
+> 종료된 대회 - top 달성
 
 샌프란시스코 범죄 종류 예측하기 대회
 
-Logless Score = 5.02824
+2020/04/15 Logless Score = 5.02824
 
-Private Leaderboard 1776 / 2331 - Top 76%
+2020/05/13 Logless Score = 2.26409
+
+Private Leaderboard 150 / 2331 - Top 6%
 
 ### 5. Home Credit Default Risk
 > 종료된 대회 - 프로젝트 진행중
