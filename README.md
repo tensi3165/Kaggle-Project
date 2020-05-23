@@ -1,4 +1,5 @@
 # Kaggle Competition Project
+![image](https://i.imgur.com/JNKJ8U6.png)
 
 ## Kaggle
 
